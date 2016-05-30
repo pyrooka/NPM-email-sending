@@ -2,8 +2,8 @@
 Email sending module
 
 # Install
-```
-npm install emil-sending --save
+```console
+npm install email-sending --save
 ```
 # Using
 
