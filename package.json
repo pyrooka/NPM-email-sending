@@ -1,0 +1,25 @@
+{
+  "name": "email-sending",
+  "version": "0.0.1",
+  "description": "EMAIL sending module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:belcoder/NPM-email-sending.git"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "Belcoder (belcoderphp@gmail.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://git@github.com:belcoder/NPM-email-sending.git/issues"
+  },
+  "homepage": "https://github.com/belcoder/NPM-sms-sending#readme",
+  "dependencies": {
+    "nodemailer": "^2.4.2"
+  }
+}
