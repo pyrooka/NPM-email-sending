@@ -24,5 +24,5 @@ npm install email-sending --save
 ```js
 var email = require('email-sending');
 
-sms.send('text mail', 'to email', 'subject);
+email.send('text mail', 'to email', 'subject');
 ```
